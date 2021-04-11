@@ -7,9 +7,9 @@ module.exports = {
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'JankinShaw',
+  name: 'LeonardShaw',
   domain: 'https://www.notion.so/Welcome-to-Jankin-s-Blog-9185c06b635149da8c787b626888d2e2',
-  author: 'Jankin Shaw',
+  author: 'Leonard Shaw',
 
   // open graph metadata (optional)
   description: 'Welcome to my blog!',
