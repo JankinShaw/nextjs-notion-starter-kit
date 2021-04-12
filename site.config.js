@@ -12,8 +12,8 @@ module.exports = {
   author: 'Leonard Shaw',
 
   // open graph metadata (optional)
-  description: 'Welcome to my blog!',
-  socialImageTitle: 'Jankin',
+  description: 'Welcome to Eaglesophia!',
+  socialImageTitle: 'Leonard',
   socialImageSubtitle: 'Hello World! 👋',
 
   // social usernames (optional)
